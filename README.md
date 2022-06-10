@@ -30,11 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterRibs&theme=codeSTACKr&hide=verilog,postscript&langs_count=8&layout=compact&count_private=true)](https://github.com/PeterRibs/" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeterRibs&show_icons=true&theme=codeSTACKr&hide=issues,contribs&count_private=true&include_all_commits=true)](https://github.com/PeterRibs/" />
-</div>
-
-
 <!--
 **PeterRibs/PeterRibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,5 +44,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-utilizar win+.
+win+. to emoji
 -->
