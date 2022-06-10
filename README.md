@@ -10,6 +10,8 @@
   <a href="mailto:pedrohenriquelr@gmail.com"><img src="https://img.shields.io/badge/-pedrohenriquelr@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
+##
+
 ### Tech Stack
 
 - 🔭: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
@@ -25,6 +27,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
+
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterRibs&theme=codeSTACKr&hide=verilog,postscript&langs_count=8&layout=compact&count_private=true)](https://github.com/PeterRibs/" />
@@ -45,4 +49,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 win+. to emoji
+shields.io
+dev.to
+devicon.dv to icons
 -->
